@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.8",
+    "date": "03/04/2026",
+    "changes": [
+      "[ + ] Adicionado Refresh em tempo real das operações em lote agora não é necessario reiniciar o programa"
+    ]
+  },
+  {
     "version": "1.0.7",
     "date": "03/04/2026",
     "changes": [
