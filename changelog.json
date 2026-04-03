@@ -1,10 +1,18 @@
 [
   {
+    "version": "1.0.7",
+    "date": "03/04/2026",
+    "changes": [
+      "[ * ] Corrigido Travamento da interface ao mudar o tema"
+    ]
+  },
+  {
     "version": "1.0.6",
     "date": "02/04/2026",
     "changes": [
       "[ + ] Adicionado Atualizador automatico",
-      "[ + ] Adicionado Opção \"Desativar Todos\" e \"Desinstalar Todos\""
+      "[ + ] Adicionado Operações em lote é possivel desativar e desinstalar todos os mods de uma única vez (Menu Configurações)",
+      "[ * ] Corrigido Travamento da UI ao usar a opção Instalar todos"
     ]
   },
   {
