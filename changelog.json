@@ -1,10 +1,20 @@
 [
   {
-    "version": "1.0.4",
+    "version": "1.0.6",
     "date": "02/04/2026",
     "changes": [
-      "Descrição da mudança 1",
-      "Descrição da mudança 2"
+      "[ + ] Adicionado Atualizador automatico",
+      "[ + ] Adicionado Opção \"Desativar Todos\" e \"Desinstalar Todos\""
+    ]
+  },
+  {
+    "version": "1.0.5",
+    "date": "28/03/2026",
+    "changes": [
+      "[ + ] Adicionado compatibilidade com arquivos .Rar (Necessario ter o programa 7-zip instalado no computador)",
+      "[ + ] Adicionado opção \"Instalar todos\" (Ele vai instalar de forma automatica todos os mods sem precisar apertar em um por um)",
+      "[ + ] Adicionado opção \"Auto Instalar\" (Se essa opção for setada os mods serão instalados automaticamente após a importação)",
+      "[ * ] Corrigido Bug erro \"throw std::runtime_error (Erro: .rar inválido).\" que poderia acontecer algumas vezes ao importar arquivos .rar"
     ]
   }
 ]
