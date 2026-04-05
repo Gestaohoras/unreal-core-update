@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.9",
+    "date": "04/04/2026",
+    "changes": [
+      "[ + ] Adicionado Botão Reconverter Mods dentro das operações em lote (converte para a plataforma correspondente caso esteja divergente)",
+      "[ * ] Corrigido Onde ao usar outra plataforma os mods não estavam sendo convertidos"
+    ]
+  },
+  {
     "version": "1.0.8",
     "date": "03/04/2026",
     "changes": [
